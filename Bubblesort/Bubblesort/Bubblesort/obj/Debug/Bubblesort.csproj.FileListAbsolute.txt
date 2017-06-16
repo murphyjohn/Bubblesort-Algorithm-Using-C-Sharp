@@ -1,0 +1,6 @@
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Bubblesort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Bubblesort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Bubblesort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Bubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csprojResolveAssemblyReference.cache
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Bubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\Users\murph\Documents\Visual Studio 2017\MTA Projects\Bubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
